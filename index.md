@@ -1,3 +1,3 @@
 Our site isnt up yet.
 
-[Log](https://www.archive.christmas/log)
+[Our tasklist](https://www.archive.christmas/log)
