@@ -1,4 +1,4 @@
 Log of our sites status.
 
-- [ ] #1
-- [ ] #2
+- [ ] https://github.com/sutrosite/archive.christmas/issues/1
+- [ ] https://github.com/sutrosite/archive.christmas/issues/2
